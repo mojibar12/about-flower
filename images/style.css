@@ -1,0 +1,71 @@
+color-orange{
+    margin:0;
+    font-family:'Poppins', sans-serif;
+    font-size: 60px; 
+}
+div h1{
+    color:green;
+    font-size:50px;
+}
+div h3{
+    font-size: 30px;
+}
+h3 span{
+    color:rgb(197, 66, 127);
+}
+.belly-full{
+    display: flex;
+}
+.favorite-flower{
+    height: 80%;
+    width:50%;
+    padding-left: 50px;
+}
+.belly-fantastic{
+    width:80%;
+    height: 50%;
+    padding-left: 50px;
+    margin-top: 100px;
+}
+.anchor-sub{
+    text-decoration: none;
+    background-color: cyan;
+    margin-left: 80px;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+.belly-measure{
+    width:80%;
+    height:50%;
+    padding-left: 50px;
+    margin-top: 100px;
+}
+.belly-description{
+    height: 80%;
+    width: 50%;
+    padding-left: 50px;
+}
+last-hidding{
+    font-size: 80px;
+}
+.advantagess{
+    width: 35%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius:10px;
+    box-shadow: 10px 10px 100px gray;
+}
+.last-deep{
+    display:flex;
+}
+#advantages-item{
+    border-left:7px solid;
+    border-image: linear-gradient(blue, yellow);
+    border-image-slice:1;
+}
+#advantages-area{
+    border-left:7px solid;
+    border-image: linear-gradient(green, yellow);
+    border-image-slice:1;
+}
